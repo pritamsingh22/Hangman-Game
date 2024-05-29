@@ -6,7 +6,7 @@ Welcome to the Hangman Game! This is a simple console-based game developed in C.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/pritamsingh22/hangman-game.git
    ```
 
 2. **Compile the Code:**
